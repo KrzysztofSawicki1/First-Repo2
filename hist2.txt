@@ -1,0 +1,2 @@
+history -anrw hist2.txt
+history -a hist2.txt
